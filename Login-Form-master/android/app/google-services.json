@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "159754737807",
+    "project_id": "trecsol-74cbb",
+    "storage_bucket": "trecsol-74cbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159754737807:android:24df73070bbd63fea878fa",
+        "android_client_info": {
+          "package_name": "com.example.loginform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159754737807-2bvnvcdesspdllo5gl4g0e1oi57d6ikb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDN4piKR9DXZQ55pxyXQQjSE-e_-3AO-vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159754737807-2bvnvcdesspdllo5gl4g0e1oi57d6ikb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
