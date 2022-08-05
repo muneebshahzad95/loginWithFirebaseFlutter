@@ -31,8 +31,6 @@ after click on signup button you recieve 6 digit code on your Mobile Number afte
 in this TextField enter your email address and click on the Reset password Button, on this click you recieve a link in your email address,
 open the link and change your new Password
 
-![Capture4](https://user-images.githubusercontent.com/93259715/183065134-c9032ec0-a955-4fcd-a817-8f6750a2a669.PNG)
-
 when you press the (OTP Send), a new TextField added and OTP verification code send on your email address then put the condition on Confirm Button As your choice
 
 ![Capture4](https://user-images.githubusercontent.com/93259715/183064787-32d55fe3-7d56-4164-a203-f530171ff6a8.PNG)
